@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CA0209
 {
-    internal class Cliente
+    internal class Estagiario
     {
     }
 }

@@ -8,8 +8,5 @@ namespace CA0209
 {
     internal class Pessoa
     {
-        protected string nome;
-        protected string endereco;
-        protected string email;
     }
 }
