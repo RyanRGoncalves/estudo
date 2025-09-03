@@ -25,7 +25,6 @@ namespace CA0209
             cpf = Console.ReadLine();
         }
 
-        Console.WriteLine("teste");
         public void consultar()
         {
             Console.WriteLine("Olá {0}", nome);
