@@ -10,7 +10,8 @@ namespace CA0209
     {
         static void Main(string[] args)
         {
-
+            Funcionario Jeferson = new Funcionario();
+            Jeferson.pedirCodigo();
         }
     }
 }
