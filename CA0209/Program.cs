@@ -8,10 +8,9 @@ namespace CA0209
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            Funcionario Jeferson = new Funcionario();
-            Jeferson.pedirCodigo();
+
         }
     }
 }

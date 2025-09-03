@@ -8,5 +8,6 @@ namespace CA0209
 {
     internal class Gerente : Coordenador
     {
+
     }
 }
